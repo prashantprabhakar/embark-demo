@@ -1,0 +1,15 @@
+{
+  "0x783e41f3de55ade1e5fb30fea4b22fb6549a76f48e93d80bcce11155a7d1ad77": {
+    "contracts": {
+      "0x42d970ab0d1c104d23a3fa2816b9689754c6b882ae039a4fd7cb14dde29add51": {
+        "name": "SimpleStorage",
+        "address": "0x09e7b074b1306fc648fb357d307ee38ec8eb79e6"
+      },
+      "0x7555622b928f11e9ecd97804488682ea34a35f2767ddcd71651eb354d4fb0f93": {
+        "name": "BasicToken",
+        "address": "0xe1914caf025716147a0aaa55e99da0fe4e426fdf"
+      }
+    },
+    "name": "development"
+  }
+}
